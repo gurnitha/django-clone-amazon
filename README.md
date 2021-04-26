@@ -49,6 +49,8 @@
 
         (venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> mkdir app
 
+#### 7. Create django app 'main' inside the app folder
+
 
 
 
