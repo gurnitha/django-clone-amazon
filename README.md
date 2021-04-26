@@ -28,7 +28,22 @@
         new file:   config/wsgi.py
         new file:   manage.py
 
+#### 5. Checking the project's structure folders and files
 
+        (venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder> tree src /f
+		Folder PATH listing
+		Volume serial number is DC72-8D6C
+		E:\2021\DJANGO\WINDOWS\ECOM_CLONE_AMAZON_YTB_SUPERCODER\SRC
+		│   .gitignore
+		│   manage.py
+		│   README.md
+		│
+		└───config
+		        asgi.py
+		        settings.py
+		        urls.py
+		        wsgi.py
+		        __init__.py
 
 
 
