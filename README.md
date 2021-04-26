@@ -45,7 +45,9 @@
 		        wsgi.py
 		        __init__.py
 
+#### 6. Creating django app's structure folder
 
+        (venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> mkdir app
 
 
 
