@@ -10,6 +10,12 @@
 	    > python -m venv venv3932
 	    modified:   README.md
 
+#### 3. Installing Django
+
+	    > venv3932\Scripts\activate
+	    (venv3932) ..> python -m pip install django==3.2.*
+	    modified:   README.md
+
 
 
 
