@@ -87,7 +87,23 @@
 
         modified:   README.md
 
+#### 10. Creating Admin app
+        
+        (venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> python manage.py makemigrations
+		No changes detected
+		(venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> python manage.py migrate
+		Operations to perform:
+		  Apply all migrations: admin, auth, contenttypes, sessions
+		  ...
+		  Applying sessions.0001_initial... OK
 
+		> Create super user  
+		(venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> python manage.py createsuperuser
+		Username (leave blank to use '62812'): admin
+		Email address: admin@admin.com
+		Password:
+		Password (again):		
+		        modified:   db.sqlite3
 
 
 
