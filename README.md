@@ -51,9 +51,14 @@
 
 #### 7. Create django app 'main' inside the app folder
 
+        (venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> python manage.py startapp main app\main
 
 
+#### 8. Install 'main' app to the project 'config'
 
+        modified:   README.md
+        modified:   app/main/apps.py
+        modified:   config/settings.py
 
 
 
