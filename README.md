@@ -16,10 +16,17 @@
 	    (venv3932) ..> python -m pip install django==3.2.*
 	    modified:   README.md
 
+#### 4. Create django project 'config' inside src folder
 
+	    (venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> django-admin startproject config .
 
-
-
+        modified:   README.md
+        new file:   config/__init__.py
+        new file:   config/asgi.py
+        new file:   config/settings.py
+        new file:   config/urls.py
+        new file:   config/wsgi.py
+        new file:   manage.py
 
 
 
