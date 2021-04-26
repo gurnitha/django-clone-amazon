@@ -61,9 +61,31 @@
         modified:   config/settings.py
 
 
+#### 9. Checking the folder structures
 
+        (venv3932) PS E:\2021\DJANGO\WINDOWS\ecom_clone_amazon_ytb_supercoder\src> tree app /f
+        Folder PATH listing
+        E:\2021\DJANGO\WINDOWS\ECOM_CLONE_AMAZON_YTB_SUPERCODER\SRC\APP
+		└───main
+		    │   admin.py
+		    │   apps.py
+		    │   models.py
+		    │   tests.py
+		    │   __init__.py
+		    │
+		    ├───migrations
+		    │   │   __init__.py
+		    │   │
+		    │   └───__pycache__
+		    │           __init__.cpython-39.pyc
+		    │
+		    └───__pycache__
+		            admin.cpython-39.pyc
+		            apps.cpython-39.pyc
+		            models.cpython-39.pyc
+		            __init__.cpython-39.pyc
 
-
+        modified:   README.md
 
 
 
